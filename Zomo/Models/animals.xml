@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+    <animal>
+        <name>Rat</name>
+        <element>Water</element>
+        <character>鼠</character>
+        <image>rat.jpeg</image>
+        <url>https://en.wikipedia.org/wiki/Rat_(zodiac)</url>
+        <trine>Individuals born under the auspices of the Rat are celebrated for their sharp intellect, quick-thinking abilities, and an innate resourcefulness that enables them to navigate through life's challenges with grace. These traits, combined with their versatile nature, make Rats adept at seizing opportunities and excelling in varied environments, often leading them to success in their endeavors.</trine>
+        <yy>Yang</yy>
+        <image2>rat2.jpeg</image2>
+    </animal>
+    <animal>
+        <name>Ox</name>
+        <element>Earth</element>
+        <character>牛</character>
+        <image>ox.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Ox_(zodiac)/</url>
+        <trine>The Ox symbolizes strength, reliability, and diligence. Known for their steadfast determination and work ethic, individuals born under the Ox sign are seen as trustworthy and capable, often taking a methodical approach to life. Their resilience and patience enable them to achieve their goals through consistent effort.</trine>
+        <yy>Ying</yy>
+        <image2>ox2.jpeg</image2>
+    </animal>
+    <animal>
+        <name>tiger</name>
+        <element>Wood</element>
+        <character>虎</character>
+        <image>tiger.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Tiger_(zodiac)/</url>
+        <trine>The Tiger stands third in the Chinese Zodiac, representing bravery, competitiveness, and unpredictability. Tigers are known for their courage and confidence, with a dynamic personality that attracts admiration and respect. Individuals born under this sign are passionate and ambitious, often pursuing their goals with a fierce determination.</trine>
+        <yy>Yang</yy>
+        <image2>tiger2.jpeg</image2>
+    </animal>
+    <animal>
+        <name>Rabbit</name>
+        <element>Wood</element>
+        <character>兔</character>
+        <image>rabbit.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Rabbit_(zodiac)</url>
+        <trine>Occupying the fourth position, the Rabbit symbolizes elegance, compassion, and prudence. Rabbits are known for their kind-heartedness and gentle demeanor, coupled with a strong sense of loyalty and empathy. Those born under this sign are adept at creating peaceful and harmonious environments, valuing security and stability.</trine>
+        <yy>Yin</yy>
+        <image2>rabbit2.jpeg</image2>
+    </animal>
+    <animal>
+        <name>Dragon/Loong</name>
+        <element>Earth</element>
+        <character>龙</character>
+        <image>dragon.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Dragon_(zodiac)</url>
+        <trine>The Dragon, fifth in the Zodiac, embodies power, charisma, and luck. Dragons are seen as natural leaders, possessing a pioneering spirit that is both innovative and fearless. Individuals born under this sign are charismatic and confident, often drawing others towards them with their vivacity and strength of will.</trine>
+        <yy>Yang</yy>
+        <image2>dragon2.jpeg</image2>
+    </animal>
+    <animal>
+        <name>Snake</name>
+        <element>Fire</element>
+        <character>蛇</character>
+        <image>snake.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Snake_(zodiac)/</url>
+        <trine>Sixth in the Zodiac, the Snake represents wisdom, mystery, and intuition. Snakes are thoughtful and intelligent, with a deep understanding of their surroundings. Those born under the Snake sign are often introspective, seeking knowledge and truth, with an ability to navigate complex situations with ease and grace.</trine>
+        <yy>Yin</yy>
+        <image2>snake2.jpeg</image2>
+    </animal>
+    <animal>
+        <name>Horse</name>
+        <element>Fire</element>
+        <character>马</character>
+        <image>horse.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Horse_(zodiac)</url>
+        <trine>Seventh in the Chinese Zodiac, the Horse symbolizes freedom, energy, and enthusiasm. Horses are known for their spirited and adventurous nature, always seeking new experiences. Individuals born under this sign are outgoing and sociable, with a love for travel and exploration.</trine>
+        <yy>Yang</yy>
+        <image2>horse2.jpeg</image2>
+    </animal>
+    <animal>
+        <name>Goat</name>
+        <element>Earth</element>
+        <character>羊</character>
+        <image>goat.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Goat_(zodiac)/</url>
+        <trine>Eighth in the Zodiac, the Goat signifies creativity, gentleness, and calmness. Goats are compassionate and dependable, with a strong inclination towards the arts and beauty. Those born under this sign are thoughtful and caring, often going out of their way to help others.</trine>
+        <yy>Yin</yy>
+        <image2>goat2.jpeg</image2>
+    </animal>
+    <animal>
+        <name>Monkey</name>
+        <element>Metal</element>
+        <character>猴</character>
+        <image>monkey.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Monkey_(zodiac)</url>
+        <trine>Ninth in the Chinese Zodiac, the Monkey stands for intelligence, versatility, and curiosity. Monkeys are quick-witted and playful, with an ability to solve complex problems with ease. Individuals born under this sign are entertaining and dynamic, possessing a knack for improvisation and innovation.</trine>
+        <yy>Yang</yy>
+        <image2>monkey2.jpeg</image2>
+    </animal>
+    <animal>
+        <name>Rooster</name>
+        <element>Metal</element>
+        <character>鸡</character>
+        <image>rooster.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Rooster_(zodiac)/</url>
+        <trine>Tenth in the Zodiac, the Rooster symbolizes honesty, punctuality, and ambition. Roosters are known for their directness and efficiency, with a keen attention to detail. Individuals born under this sign are hardworking and decisive, often achieving their goals through dedication and precision.</trine>
+        <yy>Yin</yy>
+        <image2>rooster2.jpeg</image2>
+    </animal>
+    <animal>
+        <name>Dog</name>
+        <element>Earth</element>
+        <character>狗</character>
+        <image>dog.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Dog_(zodiac)/</url>
+        <trine>Eleventh in the Zodiac, the Dog represents loyalty, honesty, and kindness. Dogs are known for their faithful and sincere nature, always ready to defend what is right. Those born under this sign are compassionate and reliable, valuing friendships and relationships deeply.</trine>
+        <yy>Yang</yy>
+        <image2>dog2.jpeg</image2>
+    </animal><animal>
+        <name>Pig</name>
+        <element>Water</element>
+        <character>猪</character>
+        <image>pig.jpeg</image>
+        <url>https://simple.wikipedia.org/wiki/Pig_(zodiac)</url>
+        <trine>Concluding the Chinese Zodiac, the Pig symbolizes wealth, luck, and joy. Pigs are known for their generosity and warmth, with a heart full of love and kindness. Individuals born under this sign are optimistic and sincere, enjoying life's pleasures while fostering a sense of community and harmony.</trine>
+        <yy>Yin</yy>
+        <image2>pig2.jpeg</image2>
+    </animal>
+</animals>
